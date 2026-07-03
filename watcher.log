@@ -1,0 +1,4 @@
+2026-07-03 19:36:06,422 - FileSystemWatcher - INFO - Starting File System Watcher
+2026-07-03 19:36:06,422 - FileSystemWatcher - INFO - Vault path: C:\Users\786\Downloads\AI_Employee_Vault
+2026-07-03 19:36:06,422 - FileSystemWatcher - INFO - Monitoring: C:\Users\786\Downloads\AI_Employee_Vault\Dropbox
+2026-07-03 19:36:08,637 - root - INFO - Processed file: test_watchdog.txt -> FILE_test_watchdog.txt
